@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students>
+    <student>
+        <id>1</id>
+        <name>Manina Derick</name>
+        <department>Business </department>
+        <type>Private</type>
+        <email>Dderick23@gmail.com</email>
+    </student>
+    <student>
+        <id>2</id>
+        <name>Adebuga Amidu</name>
+        <department>Education</department>
+        <type>Sponsor</type>
+        <email>adebugaamidu12@gmail.com</email>
+    </student>
+    <student>
+        <id>3</id>
+        <name>Faridah </name>
+        <department>Computer science</department>
+        <type>Private</type>
+        <email>faridah@gmail.com</email>
+    </student>
+
+    <student>
+        <id>4</id>
+        <name>Clovice </name>
+        <department>Information technology</department>
+        <type>Private </type>
+        <email>faridah@gmail.com</email>
+    </student>
+
+    <student>
+        <id>5</id>
+        <name>Judith </name>
+        <department>Information technology</department>
+        <type> Sponsor </type>
+        <email>judith2@gmsil.com</email>
+    </student>
+    <student>
+        <id>6</id>
+        <name>Clovice </name>
+        <department>Information technology</department>
+        <type>Private </type>
+        <email>clovice@gmail.com</email>
+    </student>
+
+    <student>
+        <id>7</id>
+        <name>Isac </name>
+        <department> Computer enginnering </department>
+        <type>Private </type>
+        <email>faridah@gmail.com</email>
+    </student>
+</Students>
